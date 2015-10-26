@@ -1,0 +1,14 @@
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\bin\Debug\BaiduOCR.exe.config
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\bin\Debug\BaiduOCR.exe
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\bin\Debug\BaiduOCR.pdb
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\BaiduOCR.csprojResolveAssemblyReference.cache
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\MainWindow.baml
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\MainWindow.g.cs
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\App.g.cs
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\BaiduOCR_MarkupCompile.cache
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\BaiduOCR.g.resources
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\BaiduOCR.Properties.Resources.resources
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\BaiduOCR.csproj.GenerateResource.Cache
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\BaiduOCR.exe
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\obj\Debug\BaiduOCR.pdb
+F:\Documents\C#\globalmousekeyhook\BaiduOCR\bin\Debug\Newtonsoft.Json.dll
